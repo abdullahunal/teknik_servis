@@ -1,4 +1,4 @@
-# teknik_servis-BilgeAdam
+# teknik_servis
 The application we developed with Spring Boot and Thymeleaf in BilgeAdam Java Star Development program.
 My contribution to this project:
 - Booking Screen and Booking Function
